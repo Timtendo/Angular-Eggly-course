@@ -1,0 +1,10 @@
+[
+	{"id": 0, "title": "Pixel Art Academy", "url":"http://enter.pixelart.academy/pixelboy/calendar", "category":"Design"},
+	{"id": 1, "title": "Stack Skills", "url":"https://stackskills.com/", "category":"Development"},
+	{"id": 2, "title": "Udemy", "url":"https://www.udemy.com/home/my-courses/learning/", "category":"Development"},
+	{"id": 3, "title": "Deviantart", "url":"http://www.deviantart.com/browse/all/", "category":"Design"},
+	{"id": 4, "title": "Kotaku", "url":"http://kotaku.com/", "category":"Gaming"},
+	{"id": 5, "title": "Blizzard", "url":"http://us.blizzard.com/", "category":"Gaming"},
+	{"id": 6, "title": "Youtube", "url":"https://www.youtube.com", "category":"Exercise"},
+	{"id": 7, "title": "Twitch", "url":"https://www.twitch.tv/", "category":"Exercise"}
+]
